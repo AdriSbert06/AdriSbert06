@@ -1,7 +1,7 @@
 ## Hi, I'm Adrià!👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D2AAF7&width=750&lines=Hello%2C+welcome+to+my+personal+space!!)](https://git.io/typing-svg)
 
-Estudiant de DAWe (Desenvolupament d'Aplicacions Web al **ITB**.
+Estudiant de DAWe (Desenvolupament d'Aplicacions Web) al **ITB**.
 - :raising_hand: 19-year-old
 - :house: Barcelona, Spain 🇪🇸
 
