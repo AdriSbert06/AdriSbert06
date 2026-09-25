@@ -1,41 +1,54 @@
-## Hi, I'm Adrià!👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D2AAF7&width=750&lines=Hello%2C+welcome+to+my+personal+space!!)](https://git.io/typing-svg)
+# Hi there, I'm Adrià Sbert Dasilva 👋
 
-Estudiant de DAWe (Desenvolupament d'Aplicacions Web) al **ITB**.
-- :raising_hand: 19-year-old
-- :house: Barcelona, Spain 🇪🇸
+### Aspiring Full Stack Developer | Web Application Development Student
 
-⏪**ESTUDIS:**
+I'm a 20-year-old student currently pursuing a Higher Vocational Degree in Web Application Development (DAW). I previously completed a Technological Baccalaureate, building a strong foundation in technology, mathematics, and problem-solving.
 
-:mortar_board: ESO, Bachillerat Tecnològic
+## 💻 Front-End
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-:memo: First Certificate, Advanced Certificate
+## ⚙️ Back-End
 
-**LEARNING:** ![image](https://github.com/user-attachments/assets/33a5659a-3b26-435f-aaba-912bae7b4d58)
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![image](https://github.com/user-attachments/assets/f0d173b6-6d79-4651-bbb5-8efa2388a3e8)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://github.com/user-attachments/assets/f8dde6c1-432c-4e12-a186-848f435e9068)
-![image](https://github.com/user-attachments/assets/ccfc70d9-ea76-423d-9c04-236868a15d26)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-💬 **CONTACT ME:**
+## 🗄️ Databases
 
-🖥️**E-MAIL:** adria.sbert.7e8@itb.cat
-  
-<!--
-**AdriSbert06/AdriSbert06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
-- 👯 I’m looking to collaborate on ...
+---
+## 🎓 Education
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Higher Vocational Degree in Web Application Development (DAW)**  
+*Currently Studying*
+
+**Technological Baccalaureate**
+
+**Escuela Secundaria Obligatoria (ESO)**
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish (Native)
+- 🇨🇺 Catalan (Native)
+- 🇬🇧 English (B2)
+- 🇵🇹 Portuguese (Basic)
+
+---
+
+## 📫 Connect With Me
+
+📧 adria.sbert.7e8@itb.cat
